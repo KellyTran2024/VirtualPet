@@ -1,9 +1,6 @@
-public void settings() {
-    size(400, 400);
-  }
-
-  public void setup() {
+   public void setup() {
     background(86, 125, 70);
+    size(400, 400);
   }
 
   public void draw() {
